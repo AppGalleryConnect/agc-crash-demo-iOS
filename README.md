@@ -1,6 +1,6 @@
 ## crash quickstart
 
-English | [中文](https://developer.huawei.com/consumer/cn/doc/development/AppGallery-connect-Guides/agc-crash-introduction-0000001055732708)
+English | [中文](https://github.com/AppGalleryConnect/agc-crash-demo-iOS/blob/master/README_ZH.md)
 
 ## Table of Contents
 
